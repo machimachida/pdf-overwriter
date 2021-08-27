@@ -1,0 +1,22 @@
+{
+  "name": "pdf-overwriter",
+  "version": "1.0.0",
+  "description": "既存のPDFへ書き込みをおこなうプログラムです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machimachida/pdf-overwriter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machimachida/pdf-overwriter/issues"
+  },
+  "homepage": "https://github.com/machimachida/pdf-overwriter#readme",
+  "dependencies": {
+    "hummus": "^1.0.110"
+  }
+}
